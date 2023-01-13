@@ -1,0 +1,15 @@
+com.vj.vj
+com.vj.vj.Controller
+com.vj.vj.Dto
+com.vj.vj.Entity
+com.vj.vj.Interface
+com.vj.vj.Repository
+com.vj.vj.Security
+com.vj.vj.Security.Controller
+com.vj.vj.Security.Dto
+com.vj.vj.Security.Entity
+com.vj.vj.Security.Enums
+com.vj.vj.Security.jwt
+com.vj.vj.Security.Repository
+com.vj.vj.Security.Service
+com.vj.vj.Service
