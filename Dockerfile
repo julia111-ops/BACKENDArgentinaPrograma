@@ -1,4 +1,4 @@
-FROM amazoncorretto:18.0.1.1-alpine-jdk
+FROM amazoncorretto:18-alpine-jdk
 
 MAINTAINER JV
 
